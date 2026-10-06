@@ -1,0 +1,11 @@
+# OSが自動生成する隠しファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# カウンターの記録ファイル
+cgi-bin/counter_human.txt
+cgi-bin/counter_bot.txt
+
+# 一時的に作られるログやキャッシュ
+*.log
